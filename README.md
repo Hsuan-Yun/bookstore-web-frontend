@@ -1,5 +1,7 @@
 # Bookstore Web Frontend
 
+Duration **2023-04 – 2023-06**
+
 Frontend of an online bookstore project built with HTML, CSS, and JavaScript.
 
 ## Demo
